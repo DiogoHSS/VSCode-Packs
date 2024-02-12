@@ -1,0 +1,24 @@
+{
+  "name": "git-package",
+  "displayName": "Git Package",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "eamodio.gitlens",
+    "donjayamanne.githistory",
+    "mhutchie.git-graph",
+    "waderyan.gitblame",
+    "adam-bender.commit-message-editor",
+    "codezombiech.gitignore",
+    "github.vscode-pull-request-github",
+    "github.remotehub",
+    "github.vscode-github-actions",
+    "serhioromano.vscode-gitflow"
+  ]
+}

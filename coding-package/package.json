@@ -1,0 +1,19 @@
+{
+  "name": "coding-package",
+  "displayName": "Coding Package",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "GitHub.copilot",
+    "GitHub.copilot-chat",
+    "esbenp.prettier-vscode",
+    "adpyke.codesnap",
+    "aaron-bond.better-comments"
+  ]
+}
