@@ -1,0 +1,20 @@
+{
+  "name": "diogo-theme",
+  "displayName": "Diogo's Theme",
+  "categories": [
+    "Themes"
+  ],
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "*"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Diogo's Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/diogo_theme.json"
+      }
+    ]
+  }
+}
